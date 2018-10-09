@@ -1,6 +1,6 @@
 # social-network
 
-This is a production level MERN stack app
+This is a production level MERN stack app. Login/Password inside mongoURI key.
 
 <h1>Screenshots</h1>
 <img width="700" alt="screen shot 2018-10-07 at 12 44 30 pm" src="https://user-images.githubusercontent.com/26332421/46579794-33286780-ca3a-11e8-9139-1d6c99047118.png">
